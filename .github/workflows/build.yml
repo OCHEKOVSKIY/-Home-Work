@@ -1,0 +1,33 @@
+name: Build .NET Project
+
+on:
+  push:
+    branches:
+      - main
+      - develop  # Если ты хочешь, чтобы сборка запускалась и для других веток
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '7.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build project
+      run: dotnet build --configuration Release
+
+    - name: Run tests
+      run: dotnet test
