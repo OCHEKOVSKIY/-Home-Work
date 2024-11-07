@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315909AA-329D-43F4-906C-4DFEA001EECB}|DZ\\DZ 4.1.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz\\dz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315909AA-329D-43F4-906C-4DFEA001EECB}|DZ\\DZ 4.1.csproj|solutionrelative:dz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315909AA-329D-43F4-906C-4DFEA001EECB}|DZ\\DZ 4.1.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz\\dz\\spiralmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315909AA-329D-43F4-906C-4DFEA001EECB}|DZ\\DZ 4.1.csproj|solutionrelative:dz\\spiralmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F64CDD-008E-44E0-A7A1-D9E7A79D8EB6}|DZ_4_1_Test\\DZ_4_1_Test.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz\\dz_4_1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F64CDD-008E-44E0-A7A1-D9E7A79D8EB6}|DZ_4_1_Test\\DZ_4_1_Test.csproj|solutionrelative:dz_4_1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ_4_1_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DZ_4_1_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ_4_1_Test\\UnitTest1.cs",
+              "RelativeToolTip": "DZ_4_1_Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:55:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpiralMatrix.cs",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ\\SpiralMatrix.cs",
+              "RelativeDocumentMoniker": "DZ\\SpiralMatrix.cs",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ\\SpiralMatrix.cs",
+              "RelativeToolTip": "DZ\\SpiralMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:55:07.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ\\Program.cs",
+              "RelativeDocumentMoniker": "DZ\\Program.cs",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ\\DZ\\Program.cs",
+              "RelativeToolTip": "DZ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:32:37.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

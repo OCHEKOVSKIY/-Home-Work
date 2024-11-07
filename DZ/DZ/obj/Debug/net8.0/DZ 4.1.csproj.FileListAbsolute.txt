@@ -1,0 +1,14 @@
+C:\My Life\Study\Прога\Repos\DZ\DZ\bin\Debug\net8.0\DZ 4.1.exe
+C:\My Life\Study\Прога\Repos\DZ\DZ\bin\Debug\net8.0\DZ 4.1.deps.json
+C:\My Life\Study\Прога\Repos\DZ\DZ\bin\Debug\net8.0\DZ 4.1.runtimeconfig.json
+C:\My Life\Study\Прога\Repos\DZ\DZ\bin\Debug\net8.0\DZ 4.1.dll
+C:\My Life\Study\Прога\Repos\DZ\DZ\bin\Debug\net8.0\DZ 4.1.pdb
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.AssemblyInfoInputs.cache
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.AssemblyInfo.cs
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.csproj.CoreCompileInputs.cache
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.dll
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\refint\DZ 4.1.dll
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.pdb
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\DZ 4.1.genruntimeconfig.cache
+C:\My Life\Study\Прога\Repos\DZ\DZ\obj\Debug\net8.0\ref\DZ 4.1.dll
