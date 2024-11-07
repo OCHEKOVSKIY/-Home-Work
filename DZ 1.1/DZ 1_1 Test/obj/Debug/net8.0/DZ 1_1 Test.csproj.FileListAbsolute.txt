@@ -1,0 +1,6 @@
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\bin\Debug\net8.0\CoverletSourceRootsMapping_DZ 1_1 Test
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\obj\Debug\net8.0\DZ 1_1 Test.csproj.AssemblyReference.cache
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\obj\Debug\net8.0\DZ 1_1 Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\obj\Debug\net8.0\DZ 1_1 Test.AssemblyInfoInputs.cache
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\obj\Debug\net8.0\DZ 1_1 Test.AssemblyInfo.cs
+C:\My Life\Study\Прога\Repos\DZ 1.1\DZ 1_1 Test\obj\Debug\net8.0\DZ 1_1 Test.csproj.CoreCompileInputs.cache

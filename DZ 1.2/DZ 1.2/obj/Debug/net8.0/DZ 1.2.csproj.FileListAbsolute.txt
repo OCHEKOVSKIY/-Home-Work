@@ -1,0 +1,28 @@
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.AssemblyInfo.cs
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.exe
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.deps.json
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.runtimeconfig.json
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.dll
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.pdb
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.dll
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\refint\DZ 1.2.dll
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.pdb
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.genruntimeconfig.cache
+C:\Users\slava\source\repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\ref\DZ 1.2.dll
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.exe
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.deps.json
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.runtimeconfig.json
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.dll
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\bin\Debug\net8.0\DZ 1.2.pdb
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.AssemblyInfoInputs.cache
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.AssemblyInfo.cs
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.csproj.CoreCompileInputs.cache
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.dll
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\refint\DZ 1.2.dll
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.pdb
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\DZ 1.2.genruntimeconfig.cache
+C:\My Life\Study\Прога\Repos\DZ 1.2\DZ 1.2\obj\Debug\net8.0\ref\DZ 1.2.dll
