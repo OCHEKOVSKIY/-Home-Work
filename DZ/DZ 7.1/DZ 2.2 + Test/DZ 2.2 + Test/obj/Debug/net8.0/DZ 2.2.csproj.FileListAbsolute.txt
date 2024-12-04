@@ -1,0 +1,14 @@
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\bin\Debug\net8.0\DZ 2.2.exe
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\bin\Debug\net8.0\DZ 2.2.deps.json
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\bin\Debug\net8.0\DZ 2.2.runtimeconfig.json
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\bin\Debug\net8.0\DZ 2.2.dll
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\bin\Debug\net8.0\DZ 2.2.pdb
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.AssemblyInfoInputs.cache
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.AssemblyInfo.cs
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.csproj.CoreCompileInputs.cache
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.dll
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\refint\DZ 2.2.dll
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.pdb
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\DZ 2.2.genruntimeconfig.cache
+C:\My Life\Study\Прога\Repos\DZ 2.2 + Test\DZ 2.2 + Test\obj\Debug\net8.0\ref\DZ 2.2.dll

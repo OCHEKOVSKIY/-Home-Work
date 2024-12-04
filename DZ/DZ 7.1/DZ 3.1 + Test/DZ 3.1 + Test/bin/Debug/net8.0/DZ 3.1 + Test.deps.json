@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DZ 3.1 + Test/1.0.0": {
+        "runtime": {
+          "DZ 3.1 + Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ 3.1 + Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

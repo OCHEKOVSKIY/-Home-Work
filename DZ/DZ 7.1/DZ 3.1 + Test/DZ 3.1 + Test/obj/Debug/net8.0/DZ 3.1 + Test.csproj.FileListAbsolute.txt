@@ -1,0 +1,14 @@
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\bin\Debug\net8.0\DZ 3.1 + Test.exe
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\bin\Debug\net8.0\DZ 3.1 + Test.deps.json
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\bin\Debug\net8.0\DZ 3.1 + Test.runtimeconfig.json
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\bin\Debug\net8.0\DZ 3.1 + Test.dll
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\bin\Debug\net8.0\DZ 3.1 + Test.pdb
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.AssemblyInfo.cs
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.dll
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\refint\DZ 3.1 + Test.dll
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.pdb
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\DZ 3.1 + Test.genruntimeconfig.cache
+C:\Users\slava\source\repos\DZ 3.1 + Test\DZ 3.1 + Test\obj\Debug\net8.0\ref\DZ 3.1 + Test.dll

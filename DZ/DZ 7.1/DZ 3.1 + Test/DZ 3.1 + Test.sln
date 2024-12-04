@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ 3.1", "DZ 3.1 + Test\DZ 3.1.csproj", "{AD0FDD5D-B83D-431E-96A2-99938D7E4A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ 3.1 - Test", "DZ 3.1 - Test\DZ 3.1 - Test.csproj", "{786E6014-BF29-48DA-AA8B-B37ACD7A2854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0FDD5D-B83D-431E-96A2-99938D7E4A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0FDD5D-B83D-431E-96A2-99938D7E4A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0FDD5D-B83D-431E-96A2-99938D7E4A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0FDD5D-B83D-431E-96A2-99938D7E4A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786E6014-BF29-48DA-AA8B-B37ACD7A2854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786E6014-BF29-48DA-AA8B-B37ACD7A2854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786E6014-BF29-48DA-AA8B-B37ACD7A2854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786E6014-BF29-48DA-AA8B-B37ACD7A2854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F4D2AE-60EA-4518-B875-55EA869639D4}
+	EndGlobalSection
+EndGlobal

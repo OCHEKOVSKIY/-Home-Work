@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96281389-9DF3-4463-9FE2-7ED225FD81F6}|DZ 2.2 - Test\\DZ 2.2 - Test.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz 2.2 \u002B test\\dz 2.2 - test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96281389-9DF3-4463-9FE2-7ED225FD81F6}|DZ 2.2 - Test\\DZ 2.2 - Test.csproj|solutionrelative:dz 2.2 - test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01F194B-6485-4CB3-8CBF-C43A4DB14818}|DZ 2.2 \u002B Test\\DZ 2.2.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz 2.2 \u002B test\\dz 2.2 \u002B test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01F194B-6485-4CB3-8CBF-C43A4DB14818}|DZ 2.2 \u002B Test\\DZ 2.2.csproj|solutionrelative:dz 2.2 \u002B test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96281389-9DF3-4463-9FE2-7ED225FD81F6}|DZ 2.2 - Test\\DZ 2.2 - Test.csproj|c:\\my life\\study\\\u043F\u0440\u043E\u0433\u0430\\repos\\dz 2.2 \u002B test\\dz 2.2 - test\\dz 2.2 - test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96281389-9DF3-4463-9FE2-7ED225FD81F6}|DZ 2.2 - Test\\DZ 2.2 - Test.csproj|solutionrelative:dz 2.2 - test\\dz 2.2 - test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DZ 2.2 - Test",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 - Test\\DZ 2.2 - Test.csproj",
+              "RelativeDocumentMoniker": "DZ 2.2 - Test\\DZ 2.2 - Test.csproj",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 - Test\\DZ 2.2 - Test.csproj",
+              "RelativeToolTip": "DZ 2.2 - Test\\DZ 2.2 - Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T20:29:41.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 - Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DZ 2.2 - Test\\UnitTest1.cs",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 - Test\\UnitTest1.cs",
+              "RelativeToolTip": "DZ 2.2 - Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:23:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 \u002B Test\\Program.cs",
+              "RelativeDocumentMoniker": "DZ 2.2 \u002B Test\\Program.cs",
+              "ToolTip": "C:\\My Life\\Study\\\u041F\u0440\u043E\u0433\u0430\\Repos\\DZ 2.2 \u002B Test\\DZ 2.2 \u002B Test\\Program.cs",
+              "RelativeToolTip": "DZ 2.2 \u002B Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:08:49.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
